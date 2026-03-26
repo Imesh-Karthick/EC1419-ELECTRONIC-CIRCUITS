@@ -20,7 +20,8 @@
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-![e9a5e454-97ab-4040-88d2-b8f6f397629f](https://github.com/user-attachments/assets/455b0de0-3080-4f5a-a1bc-a6e896fcc177)
+
+![e9a5e454-97ab-4040-88d2-b8f6f397629f](https://github.com/user-attachments/assets/228012e8-78bf-4335-8284-abd8fa076370)
 
 
 Practical frequency of Oscillation =588 Hz
