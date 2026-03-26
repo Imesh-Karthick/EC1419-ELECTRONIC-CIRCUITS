@@ -14,8 +14,11 @@
 
 ## Result
 The trouble shooting Common Emitter Amplifier was sucessfully completed and the following results were observed:
+     
       1.Gain of the Amplifier: 6.8db
+      
       2.Bandwidth of the Amplifier: 100kHz
+      
       3.Gain-Bandwidth Product: 219.43kHz
       
 ![bef7dde9-12b8-4ebd-b6b2-367b0806a2ad](https://github.com/user-attachments/assets/50857186-dd36-4c31-a26a-a92dd412c9bb)
