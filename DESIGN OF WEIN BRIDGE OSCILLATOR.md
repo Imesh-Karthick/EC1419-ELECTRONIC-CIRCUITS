@@ -18,10 +18,11 @@
 ![2f709cac-47b6-4229-8ae4-fcedac716748](https://github.com/user-attachments/assets/a2e8725b-981a-4dae-b978-a478b623db6f)
 
 ## Graph
+![e9a5e454-97ab-4040-88d2-b8f6f397629f](https://github.com/user-attachments/assets/228012e8-78bf-4335-8284-abd8fa076370)
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-![e9a5e454-97ab-4040-88d2-b8f6f397629f](https://github.com/user-attachments/assets/228012e8-78bf-4335-8284-abd8fa076370)
+
 
 
 Practical frequency of Oscillation =588 Hz
