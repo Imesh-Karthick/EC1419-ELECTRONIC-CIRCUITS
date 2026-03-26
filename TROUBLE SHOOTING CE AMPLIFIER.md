@@ -10,7 +10,7 @@
 
 
 ## Semilog Graph
-![ad93331a-087c-4795-b9a1-d71125465c9d](https://github.com/user-attachments/assets/2cabb671-dc15-4609-b043-209a9e4763bd)
+![Uploading 255fc1ad-ab9e-46ea-b11b-11ff117fa16e.jpg…]()
 
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
