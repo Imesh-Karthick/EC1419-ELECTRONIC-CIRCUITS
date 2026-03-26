@@ -12,6 +12,6 @@
 ## Semilog Graph
 ![255fc1ad-ab9e-46ea-b11b-11ff117fa16e](https://github.com/user-attachments/assets/56a210b6-ac62-49e0-94b9-6926ace28ff1)
 
+## Result
+The trouble shooting 
 
-
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
