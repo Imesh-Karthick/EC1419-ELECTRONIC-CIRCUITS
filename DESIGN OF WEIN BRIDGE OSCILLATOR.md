@@ -14,13 +14,19 @@
 
 
 ## Tabulation
-![700a4e3c-6066-4ca1-a3fb-4157d0003940](https://github.com/user-attachments/assets/d5cc1f69-5a38-43e9-aac8-b558dcdb5797)
+
+![2f709cac-47b6-4229-8ae4-fcedac716748](https://github.com/user-attachments/assets/a2e8725b-981a-4dae-b978-a478b623db6f)
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+![e9a5e454-97ab-4040-88d2-b8f6f397629f](https://github.com/user-attachments/assets/455b0de0-3080-4f5a-a1bc-a6e896fcc177)
+
 
 Practical frequency of Oscillation =588 Hz
 
 
 Theoritical Frequency of Oscillation = 159 Hz
+
+![700a4e3c-6066-4ca1-a3fb-4157d0003940](https://github.com/user-attachments/assets/a5a56c19-b096-4f46-a90d-444a83da7731)
+
