@@ -15,6 +15,9 @@
 
 ## Result
 The Common Source Amplifier was constructed and the following results were observed:
+
         1.Gain of the Amplifier: 6.8dB
+
         2.Bandwidth of the Amplifier: 99.3Hz
+        
         3.Gain-Bandwidth Product: 217.46 kHZ
